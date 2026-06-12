@@ -147,9 +147,8 @@ Negative Feedback: 2
 
 ## **📊Expected Visualization**
 
-| Output Screenshot |![Sentiment Analysis Result]() |
+| Output Screenshot |![alt text](C:\Users\nsrin\OneDrive\Videos\Captures\图片\Screenshots\output screenshot.png) |
 |-------------------|-------------------------------|
-
 
 
 ## **🧠Learning Outcomes**
